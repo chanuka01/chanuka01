@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chanaka</h1><h3 align="center">A fresher in full stack developer in Sri Lanka.</h3>
+<h1 align="center">Hi 👋, I'm chanuka udayanga</h1><h3 align="center">A fresher in full stack developer in Sri Lanka.</h3>
 
 - 👋 Hi, I’m chanuka 
 - 👀 I’m interested in lean new technologies
