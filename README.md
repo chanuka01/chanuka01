@@ -3,7 +3,7 @@
 - 👋 Hi, I’m chanuka 
 - 👀 I’m interested in lean new technologies
 - 🌱 I’m currently learning Spring boot and react.js full stack development
-- 💞️ I’m a fresher in full stack developer in Sri Lanka.
+- 💞️ I’m a fresher Quality Assurance engineering in Sri Lanka.
 - 📫 How to reach me chanukau01@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
