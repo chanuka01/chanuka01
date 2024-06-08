@@ -4,25 +4,20 @@
 - 🌱 I’m currently learning **Selenium Automation Testing**
 - 💬 Ask me about **web technologies and Buddhist philosophy**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/chanukau01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-    <p align="center">
-  
-</p>
   </a>
   <a href="https://www.linkedin.com/in/chanuka-udayanga/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-</p>
-</p>
-  </a>
-  <a href="DLChanuka.me@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"</code> alt="linkedin" height="30" width="40" />
+  <a href="mailto:DLChanuka.me@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">LAnguage and Tools</h3>
+
+<h3 align="left">Language and Tools:</h3>
 <p align="center">
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
@@ -43,10 +38,4 @@
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
-
-
 </p>
-
-
-
-
