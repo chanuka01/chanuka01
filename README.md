@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Selenium Automation Testing**
 - 💬 Ask me about **web technologies and Buddhist philosophy**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://twitter.com/chanukau01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
@@ -22,6 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"</code> alt="linkedin" height="30" width="40" />
   </a>
 </p>
+<h3 align="left">LAnguage and Tools</h3>
 <p align="center">
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
@@ -31,26 +32,16 @@
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"></code>
   <code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
- 
-
-
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
   <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
- 
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  
-
- 
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 
 
