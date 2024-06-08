@@ -5,8 +5,19 @@
 🌱 I’m currently learning Selenium Automation Testing <br>
 💞️ I’m a fresher Quality Assurance Engineer in Sri Lanka <br>
 📫 How to reach me: DLchanuka.me@gmail.com
-
-
+<h3 align="left">How to reach me:</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/chanukau01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/chanuka-udayanga/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:DLChanuka.me@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 <h3 align="left">Language and Tools:</h3>
 <p align="center">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
