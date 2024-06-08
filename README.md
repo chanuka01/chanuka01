@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Language and Tools:</h3>
+<h3 align="center">Language and Tools:</h3>
 <p align="center">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
