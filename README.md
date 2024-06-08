@@ -4,8 +4,7 @@
 👀 I’m interested in learning new technologies <br>
 🌱 I’m currently learning Selenium Automation Testing<br>
 💞️ I’m a fresher Quality Assurance Engineer in Sri Lanka<br>
-📫 📫 How to reach me: <a href="mailto:DLchanuka.me@gmail.com">DLchanuka.me@gmail.com</a>
- <br>
+📫 How to reach me: <a href="mailto:DLchanuka.me@gmail.com">DLchanuka.me@gmail.com</a> <br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
