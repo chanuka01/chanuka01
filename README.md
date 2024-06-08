@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chanuka Udayanga</h1>
 <h3 align="center">A Fresher Quality Assurance Engineer in Sri Lanka</h3>
-👋 Hi, I’m Chanuka <br>
-👀 I’m interested in learning new technologies <br>
-🌱 I’m currently learning Selenium Automation Testing<br>
-💞️ I’m a fresher Quality Assurance Engineer in Sri Lanka<br>
-📫 How to reach me: <a href="mailto:DLchanuka.me@gmail.com">DLchanuka.me@gmail.com</a> <br>
+👋 Hi, I’m Chanuka
+👀 I’m interested in learning new technologies
+🌱 I’m currently learning Selenium Automation Testing
+💞️ I’m a fresher Quality Assurance Engineer in Sri Lanka
+📫 How to reach me: DLchanuka.me@gmail.com 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
