@@ -7,9 +7,7 @@
 - 📫 How to reach me DLchanuka.me@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>4x2 Icon Grid</title>
@@ -77,8 +75,7 @@
       <div>Selenium</div>
     </div>
   </div>
-</body>
-</html>
+
 
 
 
