@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Chanuka Udayanga</h1>
+<h3 align="center">A Fresher Quality Assurance Engineer in Sri Lanka</h3>
+👋 Hi, I’m Chanuka <br>
+👀 I’m interested in learning new technologies <br>
+🌱 I’m currently learning Selenium Automation Testing <br>
+💞️ I’m a fresher Quality Assurance Engineer in Sri Lanka <br>
+📫 How to reach me: DLchanuka.me@gmail.com
+
+
 <h3 align="left">Language and Tools:</h3>
 <p align="center">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
