@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanuka Udayanga</h1>
 <h3 align="center">A passionate Qulity Assurance Engineer from Sri Lanka</h3>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajith-dilshan&layout=compact&hide=html&langs_count=8" alt="Top Languages" />
-</p>
+
 
 - 🌱 I’m currently learning **Selenium atomation Testing**
 - 💬 Ask me about **web technologies and Buddhist philosophy**
@@ -60,7 +58,10 @@
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 </p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukau01&layout=compact&hide=html&langs_count=8" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajith-dilshan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chanukau01&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
