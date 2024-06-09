@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chanuka Udayanga</h1>
-<h3 align="center">A Fresher Quality Assurance Engineer in Sri Lanka</h3>
+<h3 align="center">A Quality Assurance Engineer in Sri Lanka</h3>
 👋 Hi, I’m Chanuka <br>
 👀 I’m interested in learning new technologies <br>
 🌱 I’m currently learning Selenium Automation Testing <br>
-💞️ I’m a fresher Quality Assurance Engineer in Sri Lanka <br>
+💞️ I’m a Quality Assurance Engineer in Sri Lanka <br>
 
 <h3 align="left">How to reach me:</h3>
 
