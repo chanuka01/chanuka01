@@ -7,8 +7,6 @@
 
 <h3 align="left">How to reach me:</h3>
 
-<h3 align="left">How to reach me:</h3>
-
 <a href="https://www.linkedin.com/in/chanuka-udayanga/" target="_blank" style="text-decoration:none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
   <span style="vertical-align: middle;">chanuka-udayanga</span>
