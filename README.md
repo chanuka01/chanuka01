@@ -7,13 +7,16 @@
 
 <h3 align="left">How to reach me:</h3>
 
-  <a href="https://www.linkedin.com/in/chanuka-udayanga/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a><p href="https://www.linkedin.com/in/chanuka-udayanga/" target="_blank"></p>
-  <a href="mailto:DLChanuka.me@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/chanuka-udayanga/" target="_blank" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
+  <span style="vertical-align: middle;">chanuka-udayanga</span>
+</a>
+<br>
+<a href="mailto:DLChanuka.me@gmail.com" style="text-decoration:none;">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="25" width="35" />
+  <span style="vertical-align: middle;">DLChanuka.me@gmail.com</span>
+</a>
+
 <h3 align="center">Language and Tools:</h3>
 <p align="center">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
