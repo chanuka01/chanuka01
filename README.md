@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Type Effect</title>
+  </head>
+  <body>
+    <p class="text">Hello! I'm Chanuka Udayanga 😃</p>
+  </body>
+</html>
 <h1 align="center">Hi 👋, I'm Chanuka Udayanga</h1>
 <h3 align="center">A passionate Quality Assurance Engineer</h3>
 
