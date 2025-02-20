@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanuka Udayanga</h1>
 <h3 align="center">A passionate Quality Assurance Engineer</h3>
 
-- 🔭 I’m currently working on [etruux]
+- 🔭 I’m currently working on etruux
 
 - 🌱 I’m currently learning **SEO, selenium**
 
